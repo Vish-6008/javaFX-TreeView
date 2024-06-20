@@ -4,8 +4,8 @@
  *   contents is not permitted without  written authorization.
  *   Offenders will be liable for damages. All rights reserved.
  *---------------------------------------------------------------------------
- *   Purpose:  JiraRestApiUtils.java
- *   Project:  Tonal Logistics
+ *   Purpose:  JAVA-FX project
+ *   Project:  TreeMainController
  *   Platform: Cloud Service Provider Independent
  *   Compiler: JavaSE-11
  *   IDE:	   Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
